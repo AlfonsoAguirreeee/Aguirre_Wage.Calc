@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aguirre_Wage.Calc</string>
+    <string name="title">Employee Wage Calculation System</string>
+    <string name="username">Employee Name</string>
+    <string name="salary">Hours Worked</string>
+    <string name="tax">Hourly Rate</string>
+    <string name="netsalary">Total Earnings</string>
+    <string name="btnOk">OK</string>
+    <string name="btnCancel">Clear</string>
+</resources>
